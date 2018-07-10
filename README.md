@@ -1,5 +1,5 @@
 # prestashop-api-integration
-API2Cart provides unified API to integrate with 3dcart and other shopping carts & marketplaces, including Amazon, eBay, Woocommerce, Opencart, Shopify.
+API2Cart provides unified API to integrate with Prestashop and other shopping carts & marketplaces, including Amazon, eBay, Woocommerce, Opencart, Shopify.
 
 <b>With API2Cart shopping platform
 integration is easy.</b>
